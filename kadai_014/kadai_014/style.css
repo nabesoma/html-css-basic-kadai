@@ -20,6 +20,6 @@ h1{
 .text-pink{
   color: rgb(255, 192, 203);
 }
-#parent div {
+#child p {
   font-weight: bold ;
 }
