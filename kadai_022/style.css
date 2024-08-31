@@ -69,6 +69,7 @@ footer{
 }
 a{
   color: rgb(255, 255, 255);
+  font-size: 20px;
 }
 a:visited{
   color: rgb(193, 234, 251);
